@@ -4,4 +4,4 @@ Search for related songs and artists
 
 ## Diagram
 
-![front page](https://github.com/AgustinCarcelen/Proyect-MVP-GNOD/blob/33e3cfaefd8569f0e92aebb63ec30941e78190ef/Images/diagram2.PNG)
+![front page](https://github.com/AgustinCarcelen/Proyect-MVP-GNOD/blob/6f574d1bbce0380b841384e5044598bfe170fb43/Images/diagram3.PNG)
